@@ -1,4 +1,4 @@
-# 🏋️ PowerFit Gym Website
+# 🏋️ Fitness-Plan-Generator
 
 A smart fitness web application that generates personalized workout plans, diet recommendations, and transformation timelines based on user inputs like weight and height.
 
